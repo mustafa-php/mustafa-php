@@ -1,4 +1,4 @@
-Merhaba, ben Mustafa 18 yaşında bir Türk'üm front-end ile başladığım serüvende back-end ile devam ediyorum
+Merhaba, ben Mustafa front-end ile başladığım serüvende back-end ile devam ediyorum
 
 Hi, I'm mustafa a full stack web developer
 
