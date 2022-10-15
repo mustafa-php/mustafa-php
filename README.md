@@ -1,5 +1,3 @@
-Merhaba, ben Mustafa front-end ile başladığım serüvende back-end ile devam ediyorum
-
 Hi, I'm mustafa a full stack web developer
 
 <!---
